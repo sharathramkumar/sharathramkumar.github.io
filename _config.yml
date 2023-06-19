@@ -1,0 +1,50 @@
+# site settings
+
+title: Sharath Ram Kumar
+description: A personal website with a blog and my CV
+taglong: A personal website with a blog and my CV
+tagshort: Personal Site
+url: https://www.linkedin.com/in/sharathramkumar/
+baseurl: ""
+permalink: pretty
+repo: https://github.com/sharathramkumar/sharathramkumar.github.io
+
+# author settings
+
+author:
+  name: Sharath Ram Kumar
+  email: sharath.ramkumar@outlook.com
+photo: /assets/photo.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
