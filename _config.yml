@@ -1,19 +1,19 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Sharath Ram Kumar
+description: A personal website with a blog and my CV
+taglong: A personal website with a blog and my CV
+tagshort: Personal Site
+url: https://www.linkedin.com/in/sharathramkumar/
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/sharathramkumar/sharathramkumar.github.io
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
+  name: Sharath Ram Kumar
+  email: sharath.ramkumar@outlook.com
 photo: /assets/photo.jpg
 
 # build settings
