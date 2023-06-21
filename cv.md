@@ -28,6 +28,16 @@ I worked as an Application Engineer in the Semiconductor Business Unit. The work
 * Key Tools : RedHawk, RedHawk-SC, Clock-FX
 * Programming Languages : Python
 
-### Subsection
+## Education
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### Doctor of Philosophy - Universite Grenoble-Alpes and Nanyang Technological University (2022 - )
+
+* Doctoral researcher as part of the DesCartes project at CNRS@CREATE, Singapore. 
+
+### Master of Science - Nanyang Technological University & Technical University of Munich (2020 - 2022)
+
+* Master of Science in Green Electronics, a Singapore-based MSc program offered via TUM Asia in collaboration with NTU
+
+### Bachelor of Technology - Cochin University of Science and Technology (2014 - 2018)
+
+* Bachelors in Electronics and Communication Engineering from Govt Model Engineering College, affiliated to CUSAT
