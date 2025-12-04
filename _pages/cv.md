@@ -38,7 +38,7 @@ I worked as an Application Engineer in the Semiconductor Business Unit. The work
 ## Education
 ---
 
-### Doctor of Philosophy - Universite Grenoble-Alpes and Nanyang Technological University (2022 - )
+### Doctor of Philosophy - Universite Grenoble-Alpes and Nanyang Technological University (2022 - 2025)
 
 * Doctoral researcher as part of the DesCartes project at CNRS@CREATE, Singapore. 
 
