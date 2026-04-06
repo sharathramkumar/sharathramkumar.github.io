@@ -18,9 +18,13 @@ a.uline {text-decoration:underline;}
 ## Work Experience
 ---
 
-### [CNRS@CREATE](https://www.cnrsatcreate.cnrs.fr/descartes/), Singapore and Grenoble, France (2022 - Present)
+### Nanyang Technological University, Singapore (Dec 2025 - Present)
 
-I am a Doctoral Researcher as part of the DesCartes research project, which is a joint venture between the NRF in Singapore and CNRS in France. I work on co-ordinated energy management strategies for clusters of buildings, especially model-free techniques with a view towards preserving occupant privacy.
+At present, I am a **Research Fellow** at NTU, where we are conducting real-world trials of the methodologies developed as part of my PhD. This includes real-world deployments of reinforcement learning controllers at testbeds in Singapore and France.  
+
+### [CNRS@CREATE](https://www.cnrsatcreate.cnrs.fr/descartes/), Singapore and Grenoble, France (2022 - 2025)
+
+Doctoral Researcher as part of the DesCartes research project, which is a joint venture between the NRF in Singapore and CNRS in France. I worked on co-ordinated energy management strategies for clusters of buildings, especially model-free techniques with a view towards preserving occupant privacy.
 
 * Co-Supervised by [Benoit Delinchant](https://g2elab.grenoble-inp.fr/fr/le-laboratoire/delinchant-benoit-3), [Arvind Easwaran](https://personal.ntu.edu.sg/arvinde/) and [Remy Rigo-Mariani](https://g2elab.grenoble-inp.fr/fr/le-laboratoire/rrm) 
 * Key Tools : EnergyPlus, Stable-Baselines, OpenAI-Gym
